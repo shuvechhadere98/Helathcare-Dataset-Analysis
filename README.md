@@ -28,7 +28,7 @@ The dataset, sourced from **Kaggle**, contains patient information, hospital det
 - **Insurance Provider:** Company covering the patient’s medical expenses.  
 - **Billing Amount:** Total charges for medical services provided.  
 - **Room Number:** Patient’s room or bed assignment.  
-- **Admission Type:** Nature of admission (e.g., Emergency, Scheduled, Outpatient).  
+- **Admission Type:** Nature of admission (e.g., Emergency, Urgent, Elective).  
 - **Discharge Date:** Date the patient was discharged.  
 - **Medication:** Prescribed drugs or treatments.  
 - **Test Results:** Outcomes of medical tests conducted.  
